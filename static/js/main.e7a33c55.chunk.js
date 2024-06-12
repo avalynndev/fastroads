@@ -19206,7 +19206,7 @@
         Wl = (i(16), i.p + "static/media/warning.2f7f711f.svg"),
         Fl = i.p + "static/media/u_turn.38a08a9e.svg",
         Hl = (i(42), i.p + "static/media/no_mobile_1.959d982f.svg"),
-        Ql = i.p + "static/media/anslo_ico.77ddc9f9.svg",
+        Ql = i.p + "static/media/avalynndev_ico.77ddc9f9.svg",
         Yl = i.p + "static/media/splash-logo-placeholder-7b.2d60164d.png",
         Ul = i(0);
       const Vl = [
@@ -19421,14 +19421,14 @@
                 children: [
                   Object(Ul.jsx)("div", { id: "splash-version", children: Ui }),
                   Object(Ul.jsxs)("a", {
-                    id: "splash-anslo",
-                    href: "https://twitter.com/anslogen",
+                    id: "splash-avalynndev",
+                    href: "https://twitter.com/avalynndev",
                     target: "_blank",
                     rel: "noopener noreferrer",
                     children: [
                       Object(Ul.jsx)("img", {
                         src: Ql,
-                        id: "splash-anslo-img",
+                        id: "splash-avalynndev-img",
                         alt: "",
                       }),
                       Object(Ul.jsx)("div", { children: "from avalynndev" }),
