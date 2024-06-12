@@ -20591,6 +20591,36 @@
             })
           );
         },
+        ic = () =>
+          Object(Ul.jsxs)("a", {
+            href: "https://github.com/avalynndev",
+            target: "_blank",
+            rel: "noreferrer",
+            title: "check development on github!",
+            className: "menu-item",
+            style: {
+              padding: "0px 12px",
+              width: "auto",
+              textAlign: "right",
+              display: "flex",
+            },
+            children: [
+              Object(Ul.jsx)("img", {
+                alt: "",
+                style: {
+                  height: "50%",
+                  marginTop: "25px",
+                  marginRight: "8px",
+                  transform: "translateY(-50%)",
+                },
+                src: Sd,
+              }),
+              Object(Ul.jsx)("div", {
+                style: { fontSize: "14px", color: "#fff" },
+                children: "check",
+              }),
+            ],
+          }),
         sc = () => {
           const [e, t] = Object(s.useState)(jr.value.input),
             [i, a] = Object(s.useState)(1);
