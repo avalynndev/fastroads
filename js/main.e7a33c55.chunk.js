@@ -20605,19 +20605,9 @@
               display: "flex",
             },
             children: [
-              Object(Ul.jsx)("img", {
-                alt: "",
-                style: {
-                  height: "50%",
-                  marginTop: "25px",
-                  marginRight: "8px",
-                  transform: "translateY(-50%)",
-                },
-                src: Sd,
-              }),
               Object(Ul.jsx)("div", {
                 style: { fontSize: "14px", color: "#fff" },
-                children: "check",
+                children: "github",
               }),
             ],
           }),
